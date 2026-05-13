@@ -12,7 +12,7 @@
 
 Manually identifying brand promotions inside influencer videos is difficult and time-consuming.
 
-### How can brand promotions and sponsorship mentions be automatically detected?
+How can brand promotions and sponsorship mentions be automatically detected?
 
 This is useful for:
 - Brand Monitoring
