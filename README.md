@@ -12,7 +12,7 @@
 
 Manually identifying brand promotions inside influencer videos is difficult and time-consuming.
 
-### How can brand promotions and sponsorship mentions be automatically detected??
+### How can brand promotions and sponsorship mentions be automatically detected?
 
 This is useful for:
 - Brand Monitoring
@@ -39,6 +39,15 @@ The AI model understands the complete contextual and nuanced meaning of YouTube 
 - Understands transcript context
 - Extracts brand mentions
 - Returns structured JSON output
+
+---
+
+## 📂 Workflow Files
+This project contains two separate n8n workflow files:
+### 🟢 Master Workflow
+- NER_Master__NER_Master_NER_YT_Brand_Extraction.json
+### 🟠 Worker Workflow
+- NER_Worker__NER_Woker_NER_YT_Brand_Extraction.json
 
 ---
 
