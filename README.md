@@ -128,7 +128,7 @@ Provide your own YouTube transcript input, and the AI workflow will intelligentl
 
 # 🟢 Primary Workflow
 
-![image](IMAGE_LINK_HERE)
+<img width="2568" height="1372" alt="image" src="https://github.com/user-attachments/assets/70025ca1-d18a-4f93-8078-afedc6e01f1c" />
 
 ---
 
@@ -208,7 +208,7 @@ After waiting:
 
 # 🟠 Secondary Workflow (Sub-Workflow)
 
-![image](IMAGE_LINK_HERE)
+![image](https://github.com/user-attachments/assets/a35aaa5f-c15a-4f4c-98ea-5f64a88fa9b8)
 
 ---
 
