@@ -1,4 +1,4 @@
-# 🧠 NER_YouTube_Brand_Extraction
+# 🧠 N8N_YouTube_Brand_Extraction
 
 ---
 
