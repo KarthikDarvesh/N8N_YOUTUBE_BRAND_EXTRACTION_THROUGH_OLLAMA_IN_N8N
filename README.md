@@ -22,7 +22,7 @@ A fully automated pipeline that extracts brand mentions from YouTube video trans
   -	Strategy: From a particular channel (in channel_details), fetch all associated videos (from video_details) and then retrieve their transcripts (from video_transcripts).
   -	At the end, the query limits the selection to 2000 videos that have available transcripts but have not yet been processed for brand mentions.
     
-3. **Edit Fields Node:**  
+3. **Edit Fields Node:** 
   Transforms the data by adding, removing, renaming, rearranging, or modifying fields.
   - In this case, it rearranges fields as needed for the next steps.
  
@@ -76,7 +76,7 @@ Cleans and parses the LLM output into a structured format (likely JSON).
 
 ## 📋 Overview
 
-### Plug-and-Play AI Workflow for Extracting Brand Mentions from Influencers’ YouTube Transcripts Using Local LLMs
+### Plug-and-Play AI Workflow for Extracting Brand Mentions from Influencer's YouTube Transcripts Using Local LLMs
 
 ---
 
@@ -285,20 +285,6 @@ The workflow automatically:
 6. Stores extracted entities for future analytics and business intelligence
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
