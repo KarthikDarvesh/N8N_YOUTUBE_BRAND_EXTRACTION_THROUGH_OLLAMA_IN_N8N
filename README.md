@@ -51,7 +51,7 @@ This project contains two separate n8n workflow files:
 
 ---
 
-## 📝 Note
+###  📝 Note
 
 Provide your own YouTube transcript input, and the AI workflow will intelligently analyze the transcript and extract brand mentions and sponsorship references in structured JSON format.
 
