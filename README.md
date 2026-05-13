@@ -206,7 +206,7 @@ After waiting:
 
 # 🟠 Secondary Workflow (Sub-Workflow)
 
-![image](https://github.com/user-attachments/assets/a35aaa5f-c15a-4f4c-98ea-5f64a88fa9b8)
+<img width="1736" height="906" alt="image" src="https://github.com/user-attachments/assets/086aa0fc-bed0-4c5b-90a1-dcd158b45dd5" />
 
 ---
 
