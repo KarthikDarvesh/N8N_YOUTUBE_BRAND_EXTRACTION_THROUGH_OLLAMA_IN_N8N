@@ -104,9 +104,7 @@ The AI model understands the complete contextual and nuanced meaning of YouTube 
 
 ---
 
-## 🚀 Workflow Features
-
-This workflow:
+## 🚀 Workflow Process
 
 - Processes YouTube transcripts
 - Uses Local LLMs (OLLAMA)
